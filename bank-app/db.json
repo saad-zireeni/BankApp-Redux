@@ -1,0 +1,22 @@
+{
+  "accounts": [
+    {
+      "id": 2,
+      "customerName": "Ahmad Zahran",
+      "accountNumber": "987654",
+      "accountType": "Student accounts"
+    },
+    {
+      "customerName": "saad",
+      "accountNumber": "123",
+      "accountType": "asd",
+      "id": 3
+    },
+    {
+      "customerName": "saad",
+      "accountNumber": "123",
+      "accountType": "savings",
+      "id": 4
+    }
+  ]
+}
