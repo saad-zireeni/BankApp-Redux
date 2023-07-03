@@ -1,6 +1,6 @@
 import React, { useEffect } from 'react';
 import { useDispatch, useSelector } from 'react-redux';
-import { fetchAccounts, deleteAccount } from '../Redux/reducer';
+import { fetchAccounts, deleteAccount } from '../Redux/actions';
 import AddAccountForm from './Form';
 import { addAccount } from '../Redux/actions';
 

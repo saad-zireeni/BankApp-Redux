@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
 import { useDispatch } from 'react-redux';
-import { addAccount } from '../Redux/reducer';
+import { addAccount } from '../Redux/actions';
 
 const AddAccountForm = () => {
   const dispatch = useDispatch();
